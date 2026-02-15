@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "6月のプレリュード",
+  "base_artist": "町田ちま",
+  "createdAt": "2026-02-15T07:31:00.055145Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "6月のプレリュード",
+      "artist": "町田ちま",
+      "has_synced": false,
+      "path": "select/pl_01_6月のプレリュード_町田ちま.txt"
+    }
+  ]
+}
